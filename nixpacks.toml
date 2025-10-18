@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ['...', 'iputils-ping', 'curl', 'wget']
+aptPkgs = ['...', 'iputils-ping', 'curl', 'wget']
